@@ -120,7 +120,7 @@ class NewMessageState extends State<NewMessage> {
     } catch (error) {
       if (error.toString().contains('Datasource not found')) {
         ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-            content: Text('Datasource not found. Please create a new one.')));
+            content: Text('Datasource not found. Please connect one.')));
       }
     } finally {
       setState(() {
