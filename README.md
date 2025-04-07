@@ -22,7 +22,7 @@
 
 ### Architecture
 
-![Architecture](https://github.com/user-attachments/assets/4f7d8554-ca31-4606-aec6-8645dec2fd56)
+![Architecture](https://github.com/user-attachments/assets/ea156b54-ee5e-46b4-8e92-e1ca98d80cf1)
 
 ### Installation (Android)
 
