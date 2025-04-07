@@ -8,7 +8,9 @@
 
 ## Table of Contents
 - [Features](#features)
+- [Architecture](#architecture)
 - [Installation](#installation)
+- [Snapshots](#snapshots)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -18,10 +20,22 @@
 - Interactive chat interface.
 - Saving conversations and queries.
 
+### Architecture
+
+![Architecture](https://github.com/user-attachments/assets/4f7d8554-ca31-4606-aec6-8645dec2fd56)
+
 ### Installation (Android)
 
 AirMind is available on the [AppBox](https://ritwickrajmakhal.github.io/AppBox) by Ritwick Raj Makhal. You can download it from there.
 - [AirMind](https://ritwickrajmakhal.github.io/AppBox/app.html?name=AirMind)
+
+### Snapshots
+
+| Authentication | Datasource Connection | Conversation |
+|----------------|------------------------|--------------|
+| ![Authentication](https://github.com/user-attachments/assets/5c2012f9-33f5-4662-bd0f-02c714035098) | ![Datasource Connection](https://github.com/user-attachments/assets/aeb9bddd-1d32-4fd9-be3d-d36835d14f00) | ![Conversation](https://github.com/user-attachments/assets/a0126db8-f03a-49cd-9a26-36673b646c98) |
+
+
 
 ### Usage
 
