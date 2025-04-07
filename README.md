@@ -1,6 +1,10 @@
-# AirMind
+<h1 align="center">AirMind</h1>
 
-AirMind is a cross platform application that allows users to talk with databases using natutal language.
+<p align="center">
+    <img alt="hero" width="450" src="https://github.com/ritwickrajmakhal/air_mind/blob/master/assets/images/AirMind.png" style="max-width: 100%;"/>
+</p>
+
+<p align="center"> AirMind is a cross platform application that allows users to talk with databases using natutal language. </p>
 
 ## Table of Contents
 - [Features](#features)
