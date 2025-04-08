@@ -58,7 +58,7 @@ AirMind is available via [AppBox](https://ritwickrajmakhal.github.io/AppBox) by 
 
 ## 📸 Snapshots
 
-| Authentication | Connect Datasource | Chat with DB |
+| Authentication | Connect Datasource | Conversations |
 |----------------|---------------------|----------------|
 | ![Auth](https://github.com/user-attachments/assets/5c2012f9-33f5-4662-bd0f-02c714035098) | ![Connect](https://github.com/user-attachments/assets/aeb9bddd-1d32-4fd9-be3d-d36835d14f00) | ![Chat](https://github.com/user-attachments/assets/a0126db8-f03a-49cd-9a26-36673b646c98) |
 
