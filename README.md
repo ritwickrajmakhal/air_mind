@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/7b280ab3-e638-423e-89fc-de03de08cf4e
 ## 🧠 Architecture
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ea156b54-ee5e-46b4-8e92-e1ca98d80cf1" alt="AirMind Architecture"/>
+  <img src="https://github.com/user-attachments/assets/47cb02ee-2912-4613-b707-95a8dc81c083" alt="AirMind Architecture"/>
 </p>
 
 ---
