@@ -68,9 +68,9 @@ AirMind is available via [AppBox](https://ritwickrajmakhal.github.io/AppBox) by 
 
 1. Open the AirMind app.
 2. Register or login using your email and password.
-3. Connect to your PostgreSQL (or other supported) database using credentials.
+3. Connect to your PostgreSQL database using credentials.
 4. Start chatting with your database using natural language.
-5. View and save your SQL query results.
+5. View and save conversations.
 
 ---
 
